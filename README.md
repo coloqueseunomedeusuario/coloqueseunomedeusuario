@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Me chamo [Seu nome], graduando no curso de Engenharia e sou desenvolvedor web Back-end. Desenvolvo sistemas e lógica de programação para garantir o funcionamento eficiente de servidores e bancos de dados. Tenho uma trajetória de cerca de 2 anos trabalhando com suporte técnico e manutenção de computadores, o que me tornou um profissional dedicado e organizado. Hoje na área de desenvolvimento, vivo o aprendizado contínuo, focando em tecnologias relacionadas ao Back-end, como Node.js e Python. Busco oportunidades no mercado como dev e, em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
+Meu nome é [Seu Nome], estudo programação há aproximadamente um ano e atualmente trabalho como freelancer Front-end na área de desenvolvimento web.
 ## 🛠 Habilidades
 Javascript, Node.js, HTML, CSS...
 
